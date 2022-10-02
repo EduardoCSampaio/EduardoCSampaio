@@ -5,7 +5,7 @@
 - 🔭 Hoje trabalho com T.I porém estou migrando para a área de Desenvolvimento
 - 📫 Contate-me no e-mail: sampaioeduardocamposs@gmail.com
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/EduardoCSampaio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoCSampaio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCSampaio&layout=compact&langs_count=7&theme=radical"/>
